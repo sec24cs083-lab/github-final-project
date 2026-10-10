@@ -22,3 +22,5 @@ Include steps to reproduce the problem, the expected result, the actual result, 
 - Update the README when behavior or usage changes.
 
 By submitting a contribution, you agree that it may be distributed under this project's Apache-2.0 license.
+
+All contributions, bug reports, bug fixes, documentation improvements, enhancements, and ideas are welcome.
