@@ -22,6 +22,12 @@ This Code of Conduct applies in project spaces and whenever someone is represent
 
 Report abusive, harassing, or otherwise unacceptable behavior to the project maintainer through the contact method listed in the repository profile. Reports will be reviewed and handled as fairly and promptly as possible.
 
+## Enforcement Guidelines
+
+Community leaders are responsible for clarifying and enforcing our standards of acceptable behavior. They will take appropriate and fair corrective action in response to any behavior they deem inappropriate, threatening, offensive, or harmful.
+
+Community leaders have the right and responsibility to remove, edit, or reject comments, commits, code, wiki edits, issues, and other contributions that are not aligned with this Code of Conduct, and will communicate moderation decisions when appropriate.
+
 ## Attribution
 
 This Code of Conduct is adapted from the Contributor Covenant, version 2.1.
